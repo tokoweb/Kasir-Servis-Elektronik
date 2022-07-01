@@ -1,0 +1,26 @@
+1. Copy paste folder pos-servis-seniman-koding di dalam directory instalasi xampp di dalam folder htdocs
+2. Pastikan Anda sudah membuat database di xampp
+3. Jika sudah, buka browser dan ketik localhost/pos-servis-seniman-koding kemudian enter
+
+Akun Login Super Admin
+Email: senimankoding@gmail.com
+password: senimankoding
+
+Akun Login Admin
+Email: admin@senimankoding.com
+password: senimankoding
+
+Akun Login Teknisi
+Email: teknisi@senimankoding.com
+password: senimankoding
+
+Akun Login Kasir
+Email: kasir@senimankoding.com
+password: senimankoding
+
+Akun Login Kurir
+Email: kurir@senimankoding.com
+password: senimankoding
+
+
+NB: Kurir hanya untuk melayani tansaksi toko untuk mengirimkan ke rumah customer tidak ada hubunganya dengan manajemen servis
